@@ -1,0 +1,29 @@
+
+Elabore um template em JSON para um projeto de uma calculadora em C#. O projeto deve incluir os diretórios `workspace`, `src`, `calculadora`, `models`. O diretório `src` está localizado dentro de `workspace`, e `calculadora` está dentro de `src`. O diretório `models` está dentro de `calculadora`. Dentro de `calculadora`, deve haver um arquivo `main.cs` que executa o projeto. Dentro de `models`, devem existir classes para realizar as operações básicas da matemática: soma, subtração, multiplicação e divisão. Cada classe deve implementar métodos que operam com números do tipo `double`. O `main.cs` deve invocar cada classe e realizar operações com dois números
+
+
+
+============
+(venv) C:\gemini\gemini-copilot>python execute.py
+Digite as instruções ou pré requisitos para a realização da tarefa
+
+elabore um template json de um projeto em python de uma calculadora com os seguintes diretorios, workspace, src, calculadora, models, onde src fica dentro de workspace e tem dentro dele o diretorio calculadora, o diretorio calculadora tem dentro o models e um main que executa as operacoes, dentro de models tem as clasesses que realiza as operacoes soma, subtrair, multiplicar, divisao, cada arquivo de classe podera vir apenas com um print ola mundo pois os metodos serao tratados de outra forma
+{
+  "data": {
+    "workspace": {
+      "src": {
+        "calculadora": {
+          "models": {
+            "soma.py": "print('Olá, Mundo!')",
+            "subtrair.py": "print('Olá, Mundo!')",
+            "multiplicar.py": "print('Olá, Mundo!')",
+            "divisao.py": "print('Olá, Mundo!')"
+          },
+          "main.py": "print('Olá, Mundo!')"
+        }
+      }
+    }
+  }
+}
+
+Ocorreu um erro ao criar os diretórios e arquivos: write() argument must be str, not dict

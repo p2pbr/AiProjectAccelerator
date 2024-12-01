@@ -1,0 +1,3 @@
+Welcome to the AiProjectAccelerator application! We will help you develop your software project with precision and productivity.
+Attention: For now, we are working from the 'workspace/src' directory, so please make sure to include this requirement in your task request.
+To exit the application, press Alt + F4.

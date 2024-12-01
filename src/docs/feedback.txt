@@ -1,0 +1,10 @@
+Your software template has been successfully created!
+Check the directory where you requested the response.
+You can continue interacting with the program by making changes to the generated files.
+The model will evaluate your code and provide corrections if necessary.
+To get started, open the directory with your preferred code editor,
+such as VS Code, Eclipse, IntelliJ, or any other.
+Edit the desired file and save your changes.
+The assistant will analyze your code and return possible corrections.
+If you need further assistance, I’m here to help! 😊
+To exit the application, press Alt + F4.
